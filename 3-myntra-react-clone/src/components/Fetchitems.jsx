@@ -139,7 +139,7 @@ const FetchItems = () => {
     };
   }, [fetchStatus]);
 
-  return <></>;
+  return <> Hello</>;
 };
 
 export default FetchItems;
