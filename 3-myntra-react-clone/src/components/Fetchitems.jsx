@@ -99,7 +99,7 @@ const FetchItems = () => {
       discount_percentage: 50,
       return_period: 14,
       delivery_date: "10 Oct 2023",
-      rating: { stars: 4.2, count: 5200 },
+      rating: { stars: 4.2, count: 5500 },
     },
   ];
 
